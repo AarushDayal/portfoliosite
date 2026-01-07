@@ -1,4 +1,4 @@
-# Person portfolio Portfolio
+# Personal portfolio Portfolio
 
 A cinematic, high-performance portfolio website designed for Senior Full Stack Engineers. This project features a **3D interactive hero section** and a highly optimized **HTML5 Canvas background system**.
 
